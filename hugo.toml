@@ -1,0 +1,4 @@
+baseURL = 'https://blog.yifeitao.com/'
+languageCode = 'zh-cn'
+title = '次生进化 Beta'
+theme = 'ananke'
